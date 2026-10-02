@@ -9,7 +9,7 @@ public class HostelManagementApplication {
         SpringApplication.run(HostelManagementApplication.class, args);
         System.out.println("\n========================================");
         System.out.println("  HOSTEL MANAGEMENT SYSTEM STARTED!");
-        System.out.println("  Open: http://localhost:8080");
+        System.out.println("  Open: http://localhost:8081");
         System.out.println("========================================\n");
     }
 }
